@@ -1,0 +1,6 @@
+[submodule "karabiner"]
+	path = karabiner
+	url = git@github.com:suenot/karabiner.git
+[submodule "karabiner-visualizer"]
+	path = karabiner-visualizer
+	url = git@github.com:suenot/karabiner-visualizer.git
